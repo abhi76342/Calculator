@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Portfolio"
+		},
+		{
+			"path": "../QR Code Generator"
+		}
+	],
+	"settings": {}
+}
